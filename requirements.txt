@@ -1,0 +1,5 @@
+flask
+torchvision
+vit-pytorch
+pillow
+packaging 
